@@ -73,11 +73,11 @@ document.createElement('nav');
 
 //social media in footer - https://stackoverflow.com/questions/18032220/css-change-image-src-on-imghover
 
-function hover(footer_top) {
-  footer_top.setAttribute('src', '../images/new_social_bar_hover.png');
-}
+//function hover(footer_top) {
+//  footer_top.setAttribute('src', '../images/new_social_bar_hover.png');
+//}
 
-function unhover(footer_top) {
-  footer_top.setAttribute('src', '../images/new_social_bar.png');
-}
+//function unhover(footer_top) {
+//  footer_top.setAttribute('src', '../images/new_social_bar.png');
+//}
 
